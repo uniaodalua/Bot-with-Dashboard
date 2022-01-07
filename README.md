@@ -9,9 +9,9 @@
 
 ## 💨 Run the projects
 
-[![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/DarkThunder99/Bot-with-Dashboard)
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/DarkThunder99/Bot-with-Dashboard)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkThunder99/Bot-with-Dashboard)
+[![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/uniaodalua/Bot-with-Dashboard)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/uniaodalua/Bot-with-Dashboard)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/uniaodalua/Bot-with-Dashboard)
 
 ## 🚀 Getting Started
 
